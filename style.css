@@ -1,19 +1,21 @@
-*{
+* {
     font-family: montserrat;
 }
-body{
+
+body {
     background: rgb(82, 4, 4);
 }
 
 
 h5 {
     background-color: burlywood;
-    
+
     color: rgb(12, 8, 241);
     margin-top: 300px;
-    font-size: 45px; 
+    font-size: 45px;
 }
-p{
+
+p {
     color: rgb(12, 8, 241);
     background-color: burlywood;
     width: 60%;
@@ -21,7 +23,8 @@ p{
     font-size: 18px;
     line-height: 1.9;
 }
-.carousel-caption{
+
+.carousel-caption {
     bottom: 220px;
     z-index: 2;
 }
